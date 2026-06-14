@@ -1,0 +1,14 @@
+{
+    "name": "flixel-switch",
+    "url" : "https://github.com/Slushi-Github/flixel-switch",
+    "license": "MIT",
+    "tags": ["haxe", "nintendo", "switch", "cpp", "game", "native"],
+    "description": "A small library for retrieving and managing things from the Nintendo Switch using HaxeFlixel.",
+    "version": "1.0.0",
+    "releasenote": "",
+    "contributors": ["Slushi"],
+    "dependencies": {
+        "flixel": "",
+        "hx_libnx": ""
+    }
+}
