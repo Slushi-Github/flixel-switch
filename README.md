@@ -1,4 +1,4 @@
-# Flixel Switch
+# flixel-switch
 
 A little library to get things of the Nintendo Switch console easier in HaxeFlixel!
 
