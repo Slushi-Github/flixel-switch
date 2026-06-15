@@ -82,11 +82,11 @@ class FlxSwitch
 	/**
 	 * Shows an system error message.
      * 
-     * @param code The error code.
+     * @param errorNumber The error code.
 	 * @param msg The error message.
      * @param full_message The full error message.
 	 */
-	public static function showErrorMessage(code:Null<Int> = 0, msg:String = '', ?full_message:String = null):Void
+	public static function showErrorMessage(errorNumber:Null<Int> = 0, msg:String = '', ?full_message:String = null):Void
 	{
 		if (!isRunningAsApplet)
 		{
