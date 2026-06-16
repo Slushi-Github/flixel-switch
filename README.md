@@ -35,7 +35,7 @@ This is a class that you can use to manage the back light of the screen of the N
 
 ## Installation
 
-Install through the haxelib (Not alvailable yet):
+Install through the haxelib (Not available yet):
 
 ```
 haxelib install flixel-switch
